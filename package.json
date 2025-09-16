@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-webhook",
+  "version": "1.0.0",
+  "description": "Whatsapp reader webhook test",
+  "main": "app.js",
+  "repository": "https://https://github.com/leccyril/whatsapp-webhook",
+  "author": "Render Developers",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
